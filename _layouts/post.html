@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 {% include wrap.html %}
@@ -33,13 +34,12 @@ layout: default
             {{ content }}
 
             <div class="spacing"></div>
-            <h6>SHARE:</h6>
+            <h6>COMPARTIR:</h6>
             <p class="share">
-                <a href="https://twitter.com/intent/tweet?url={{ prepend: site.baseurl }}"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-tumblr"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>
+                <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url }}"><i class="fa fa-twitter"></i></a>
             </p>
+
+            {% include comments.html %}
         </div><!--/col-lg-8 -->
         
         {% include sidebar.html %}
