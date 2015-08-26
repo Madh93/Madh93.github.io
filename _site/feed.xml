@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Hernández</title>
+    <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 26 Aug 2015 19:22:47 +0100</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2015 19:22:47 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Preguntas: ¿Has hecho este sitio desde cero?</title>
+        <description>&lt;p&gt;La respuesta corta es: no.&lt;/p&gt;
+
+&lt;p&gt;El diseño original se titula “Solid” hecho por &lt;a href=&quot;http://blacktie.co/&quot;&gt;BlackTie.co&lt;/a&gt; y &lt;a href=&quot;https://github.com/st4ple/solid-jekyll&quot;&gt;adaptado a Jekyll&lt;/a&gt; por Oliver Stapleton. Quería realizar un sitio sin tener que preocuparme de la elaboración del diseño. Y eso es lo que hecho, la idea original del diseño la he dejado intacta, mientras que en el resto de apartados como la mayor parte de la funcionalidad lo he modificado a lo que he creído acorde con mis necesidades.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Aug 2015 23:31:56 +0100</pubDate>
+        <link>http://yourdomain.com/preguntas/</link>
+        <guid isPermaLink="true">http://yourdomain.com/preguntas/</guid>
+        
+        
+        <category>preguntas</category>
+        
+      </item>
+    
+      <item>
+        <title>Preguntas: ¿Has aprendido contenido de forma autodidacta?</title>
+        <description>&lt;p&gt;Sí, y bastante además. Algunas veces porque el material que he recibido en la universidad no ha sido el suficiente, pero también otras muchas por interés propio ya que hay mucho contenido que por desgracia no da tiempo de enseñar o directamente no se puede. La informática es un campo que evoluciona cada día, es entendible que el contenido que uno recibe en la carerra no siempre es el más nuevo.&lt;/p&gt;
+
+&lt;p&gt;Pero esto no es un problema, hoy en día con internet es &lt;strong&gt;muy fácil&lt;/strong&gt; aprender cosas nuevas de manera autodidacta. Hay muchísimo contenido tanto de pago como gratuito de gran calidad. Páginas de aprendizaje como &lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;, &lt;a href=&quot;https://www.codeschool.com&quot;&gt;Code School&lt;/a&gt; o &lt;a href=&quot;http://www.sitepoint.com/&quot;&gt;SitePoint&lt;/a&gt; que te permiten empezar desde cero lenguajes como Ruby, Python, Javascript, etc. Libros completos como &lt;a href=&quot;http://learnrubythehardway.org/book/&quot;&gt;Learn Ruby the Hard Way&lt;/a&gt;, &lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;Learn Python the Hard Way&lt;/a&gt; o &lt;a href=&quot;https://www.railstutorial.org/book&quot;&gt;Rails Tutorial&lt;/a&gt;. Y por supuesto MOOC’s (cursos masivos online) &lt;a href=&quot;https://www.miriadax.net/&quot;&gt;Miríada X&lt;/a&gt;, &lt;a href=&quot;https://es.coursera.org/&quot;&gt;Coursera&lt;/a&gt; o &lt;a href=&quot;https://www.edx.org/&quot;&gt;edX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sin todas estás páginas y muchas más que no he podido mencionar, no podría hacer muchas de las cosas que puedo hacer hoy en día y que todavía me quedan por aprender.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Aug 2015 20:54:46 +0100</pubDate>
+        <link>http://yourdomain.com/preguntas/</link>
+        <guid isPermaLink="true">http://yourdomain.com/preguntas/</guid>
+        
+        
+        <category>preguntas</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+---
+layout: default
+wrap_title: 'Preguntas más frecuentes'
+title: Preguntas
+---
+
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <!-- SINGLE POST -->
+        <div class="col-lg-8">
+        {% for question in site.categories['preguntas'] limit:include.limit %}
+            <!-- Blog Post  -->
+          <h3 class="ctitle">{{ question.title }}</h3>
+
+            {{ question.content }}
+
+            <div class="spacing"></div>
+            <!-- <h6>SHARE:</h6>
+            <p class="share">
+                <a href="#"><i class="fa fa-twitter"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-tumblr"></i></a>
+                <a href="#"><i class="fa fa-google-plus"></i></a>		 		
+            </p> -->
+        {% endfor %}
+        </div><!--/col-lg-8 -->
+        {% include sidebar.html %}
+    </div><!--/row -->
+</div><!--/container -->
