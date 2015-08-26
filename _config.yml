@@ -5,7 +5,7 @@ title: Miguel Hernández
 description: "Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://www.yourdomain.com"
 
 # Build settings
 markdown: kramdown
