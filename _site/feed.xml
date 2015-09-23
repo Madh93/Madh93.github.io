@@ -5,9 +5,53 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.com/</link>
     <atom:link href="http://www.migueldhdez.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 26 Aug 2015 23:15:15 +0100</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2015 23:15:15 +0100</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2015 23:48:41 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2015 23:48:41 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Proyectos: VISOR DE IMÁGENES EN QT</title>
+        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+
+&lt;p&gt;Se trata de un visor de imágenes escrito en C++ mediante el framework &lt;a href=&quot;http://www.qt.io/&quot;&gt;Qt&lt;/a&gt; que permite abrir y visualizar imágenes de diferentes formatos.&lt;/p&gt;
+
+&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+
+&lt;p&gt;Las imágenes se pueden ampliar, reducir y rotar.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;http://fat.gfycat.com/CharmingSaneBarb.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Cabe destacar que se puede hacer zoom mediante atajo de teclado, menú o con la rueda del ratón.&lt;/p&gt;
+
+&lt;p&gt;También contiene algunas utilidades como abrir con otra aplicación, abrir la ubicación de la imagen o cambiar el nombre de la misma.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;http://zippy.gfycat.com/PoisedEsteemedHeron.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;uso&quot;&gt;Uso&lt;/h4&gt;
+
+&lt;p&gt;Desde Github se puede descargar el código fuente. Para poder compilarlo y posteriormente ejecutarlo es necesario tener &lt;a href=&quot;http://www.qt.io/download/&quot;&gt;Qt 5 o superior&lt;/a&gt;. Ha sido testeado en las versiones 5.4 y 5.5.&lt;/p&gt;
+
+&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+
+&lt;p&gt;Este fue uno de mis primeros proyectos con Qt, y pienso que es una muy buena forma de empezar con este potente framework, ya que contiene algunos elementos básicos como la utilización de menús y botones, además de trabajar con gráficos e imágenes.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2015 20:54:42 +0100</pubDate>
+        <link>http://www.migueldhdez.com/visor-de-imagenes-en-qt</link>
+        <guid isPermaLink="true">http://www.migueldhdez.com/visor-de-imagenes-en-qt</guid>
+        
+        
+        <category>proyectos</category>
+        
+        <category>c++</category>
+        
+        <category>qt</category>
+        
+      </item>
     
       <item>
         <title>Blog: Hola Mundo</title>

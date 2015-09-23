@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 {% include wrap.html %}
@@ -34,3 +35,11 @@ layout: default
 </div><!--/container -->
 	 
 {% include portfolio.html title="Otros proyectos" limit=5 %}
+<div class="container mt">
+    <div class="row">
+        <div class="col-lg-6 col-lg-offset-1">
+            <div class="spacing"></div>
+            {% include comments.html %}
+        </div>
+    </div>
+</div>
