@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Miguel Hernández - Proyectos</title>
+    <title>Miguel Hernández - IMPLEMENTACIÓN DE FTP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -51,7 +51,7 @@
       <ul class="nav navbar-nav">
         <li ><a href="/">INICIO</a></li>
         <li ><a href="/blog/">BLOG</a></li>
-        <li class="active"><a href="/proyectos/">PROYECTOS</a></li>
+        <li ><a href="/proyectos/">PROYECTOS</a></li>
         <li ><a href="/preguntas/">PREGUNTAS</a></li>
         <li ><a href="/acerca/">ACERCA</a></li>
         <li ><a href="/contacto/">CONTACTO</a></li>
@@ -63,24 +63,117 @@
             <div id="blue">
     <div class="container">
         <div class="row">
-            <h3>Proyectos</h3>
+            <h3>IMPLEMENTACIÓN DE FTP</h3>
         </div><!-- /row -->
     </div> <!-- /container -->
 </div><!-- /blue -->
 
-  <div class="container mtb">
+<div class="container mt">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 centered">
-            <h2>Algunos de mis proyectos, tanto personales como los realizados a lo largo de la carrera.</h2>
-            <br>
-            <div class="hline"></div>
-        </div>
-    </div>
-</div><!--/container -->
 
+        <div class="col-lg-10 col-lg-offset-1 centered">
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            
+                <li data-target="#carousel-example-generic" data-slide-to="0" 
+                
+                    class="active"
+                >
+                </li>
+            
+                <li data-target="#carousel-example-generic" data-slide-to="1" 
+                >
+                </li>
+            
+                <li data-target="#carousel-example-generic" data-slide-to="2" 
+                >
+                </li>
+            
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            
+                <div class="item active">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp01.jpg" alt="">
+                </div>
+            
+            
+                <div class="item">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp02.jpg" alt="">
+                </div>
+            
+                <div class="item">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp03.jpg" alt="">
+                </div>
+            
+        </div>
+    </div> <!--/Carousel -->
+</div>
+
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            <h4 id="qu-es">¿Qué es?</h4>
+
+<p>Se trata de una implementación del protocolo <a href="https://es.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a> escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets.</p>
+
+<p>Los sockets no son más que un mecanismo que permite la comunicación de datos entre dos dispositivo conociendo su dirección del protocolo y el número de puerto correspondiente.</p>
+
+<p>El protocolo FTP es un protocolo de red que trabaja sobre la capa de aplicación, el cual permite la transferencia de ficheros entre un servidor y un cliente.</p>
+
+<h4 id="caractersticas">Características</h4>
+
+<p>Para tener un protocolo FTP, lo básico es disponer de la posibilidad de descargar archivos desde el servidor, como subirlos a él. Estas acciones se pueden realizar tanto mediante modo “activo” como “pasivo”.</p>
+
+<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
+  <source src="http://zippy.gfycat.com/FocusedDistantHuman.webm" type="video/webm" />
+</video>
+
+<p>Además de esto, el usuario es posible navegar por el servidor ftp, moviéndose por los directorios del mismo, creando nuevas carpetas, o incluso eliminando algunos archivos.</p>
+
+<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
+  <source src="http://zippy.gfycat.com/WeeklyMadFattaileddunnart.webm" type="video/webm" />
+</video>
+<p><br /></p>
+
+<h4 id="uso">Uso</h4>
+
+<p>Desde Github se puede descargar el código fuente. En el mismo repositorio están las instrucciones para compilar los archivos. Cabe mencionar, que para comprobar el funcionamiento lo correcto sería lanzar los clientes desde diferentes directorios al servidor.</p>
+
+<h4 id="opinin-personal">Opinión personal</h4>
+
+<p>Este proyecto, fue el proyecto final de una asignatura de Redes. El objetivo era entender el concepto de los sockets, los cuales son indispensables en las comunicaciones.</p>
+
+<p>No fue un tema fácil de entender, sin embargo la realización de un protocolo FTP como ejemplo fue indispensable para entender la el funcionamiento de los sockets, y ya de paso profundizar en el funcionamiento de FTP (existiendo los conocidos modo activo y modo pasivo).</p>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Acerca del proyecto</h4>
+            <div class="hline"></div>
+            <p><b>Fecha:</b> 16 de Mayo de 2014</p>
+            <p><b>Lenguaje:</b> C/C++</p>
+            <p><b>Autor/es:</b> Miguel Hernández</p>
+            <p><b>Encargado de:</b> Programación</p>
+            <p><b>Código fuente:</b> <a href="https://github.com/Madh93/ftp">https://github.com/Madh93/ftp</a></p>
+            <p><b>Tags:</b> 
+            
+                <a class="btn btn-theme" href="/categorias/#c++" role="button">C++</a>  
+            
+                <a class="btn btn-theme" href="/categorias/#c" role="button">C</a>  
+             
+            </p>
+        </div>
+    </div><!--/row -->
+</div><!--/container -->
+	 
 <div id="portfoliowrap">
     <div class="portfolio-centered">
-        
+        <h3>Otros proyectos</h3>
         <div class="recentitems portfolio">
             
             <a href="/implementacion-de-ftp">
@@ -118,6 +211,29 @@
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
 </div><!--/Portfoliowrap -->
+<div class="container mt">
+    <div class="row">
+        <div class="col-lg-6 col-lg-offset-1">
+            <div class="spacing"></div>
+            
+<div id="disqus_thread"></div>
+    <script type="text/javascript">
+        // var disqus_developer = 1; // Comment out when the site is live
+        var disqus_shortname = 'migueldhdez'; // required: replace example with your forum shortname
+        var disqus_identifier = "/implementacion-de-ftp";
+
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+        </div>
+    </div>
+</div>
 
         <div id="footerwrap">
     <div class="container">

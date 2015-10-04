@@ -5,9 +5,57 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.com/</link>
     <atom:link href="http://www.migueldhdez.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Sep 2015 23:48:41 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2015 23:48:41 +0100</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2015 02:16:57 +0100</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2015 02:16:57 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Proyectos: IMPLEMENTACIÓN DE FTP</title>
+        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+
+&lt;p&gt;Se trata de una implementación del protocolo &lt;a href=&quot;https://es.wikipedia.org/wiki/File_Transfer_Protocol&quot;&gt;FTP&lt;/a&gt; escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets.&lt;/p&gt;
+
+&lt;p&gt;Los sockets no son más que un mecanismo que permite la comunicación de datos entre dos dispositivo conociendo su dirección del protocolo y el número de puerto correspondiente.&lt;/p&gt;
+
+&lt;p&gt;El protocolo FTP es un protocolo de red que trabaja sobre la capa de aplicación, el cual permite la transferencia de ficheros entre un servidor y un cliente.&lt;/p&gt;
+
+&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+
+&lt;p&gt;Para tener un protocolo FTP, lo básico es disponer de la posibilidad de descargar archivos desde el servidor, como subirlos a él. Estas acciones se pueden realizar tanto mediante modo “activo” como “pasivo”.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;http://zippy.gfycat.com/FocusedDistantHuman.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Además de esto, el usuario es posible navegar por el servidor ftp, moviéndose por los directorios del mismo, creando nuevas carpetas, o incluso eliminando algunos archivos.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;http://zippy.gfycat.com/WeeklyMadFattaileddunnart.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;uso&quot;&gt;Uso&lt;/h4&gt;
+
+&lt;p&gt;Desde Github se puede descargar el código fuente. En el mismo repositorio están las instrucciones para compilar los archivos. Cabe mencionar, que para comprobar el funcionamiento lo correcto sería lanzar los clientes desde diferentes directorios al servidor.&lt;/p&gt;
+
+&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+
+&lt;p&gt;Este proyecto, fue el proyecto final de una asignatura de Redes. El objetivo era entender el concepto de los sockets, los cuales son indispensables en las comunicaciones.&lt;/p&gt;
+
+&lt;p&gt;No fue un tema fácil de entender, sin embargo la realización de un protocolo FTP como ejemplo fue indispensable para entender la el funcionamiento de los sockets, y ya de paso profundizar en el funcionamiento de FTP (existiendo los conocidos modo activo y modo pasivo).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Oct 2015 02:33:41 +0100</pubDate>
+        <link>http://www.migueldhdez.com/implementacion-de-ftp</link>
+        <guid isPermaLink="true">http://www.migueldhdez.com/implementacion-de-ftp</guid>
+        
+        
+        <category>proyectos</category>
+        
+        <category>c++</category>
+        
+        <category>c</category>
+        
+      </item>
     
       <item>
         <title>Proyectos: VISOR DE IMÁGENES EN QT</title>
