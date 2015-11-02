@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/ico/favicon.ico">
 
-    <title>Miguel Hernández - VISOR DE IMÁGENES EN QT</title>
+    <title>Miguel Hernández - REALIZACIÓN DE UNA CPU SIMPLE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -63,7 +63,7 @@
             <div id="blue">
     <div class="container">
         <div class="row">
-            <h3>VISOR DE IMÁGENES EN QT</h3>
+            <h3>REALIZACIÓN DE UNA CPU SIMPLE</h3>
         </div><!-- /row -->
     </div> <!-- /container -->
 </div><!-- /blue -->
@@ -92,12 +92,12 @@
         <div class="carousel-inner">
             
                 <div class="item active">
-                    <img src="/assets/img/projects/carousel/visor-de-imagenes-en-qt01.jpg" alt="">
+                    <img src="/assets/img/projects/carousel/realizacion-de-una-cpu-simple01.jpg" alt="">
                 </div>
             
             
                 <div class="item">
-                    <img src="/assets/img/projects/carousel/visor-de-imagenes-en-qt02.jpg" alt="">
+                    <img src="/assets/img/projects/carousel/realizacion-de-una-cpu-simple02.jpg" alt="">
                 </div>
             
         </div>
@@ -110,32 +110,35 @@
 
             <h4 id="qu-es">¿Qué es?</h4>
 
-<p>Se trata de un visor de imágenes escrito en C++ mediante el framework <a href="http://www.qt.io/">Qt</a> que permite abrir y visualizar imágenes de diferentes formatos.</p>
+<p>Se trata de una CPU monociclo de 16-bit realizada en Verilog, un ejemplo perfecto para entender desde lo más básico cual es el verdadero funcionamiento de un microprocesador.</p>
+
+<p>Tradicionalmente una CPU ejecuta una instrucción tras otra. Estas instrucciones son almacenadas en una memoria de instrucciones. La unidad de control de la CPU es la responsable de extraer cada instrucción, decodificarla, y ejecutarla de manera secuencial mediante un contador de programa. Además de la memoria de instrucciones y un contador de programa, se suele disponer de un conjunto de registros donde almacenar los datos y una ALU (unidad aritmético-lógica) encargada de las operaciones más elementales.</p>
 
 <h4 id="caractersticas">Características</h4>
 
-<p>Las imágenes se pueden ampliar, reducir y rotar.</p>
+<p>La CPU cuenta con una memoria de instrucciones con capacidad de 1024 instrucciones, un banco de 16 registros de 8 bits, una ALU con operaciones como asignación, suma, resta, and, or, diferencia, etc. y cuatro puertos de entrada/salida.</p>
 
-<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
-  <source src="http://fat.gfycat.com/CharmingSaneBarb.webm" type="video/webm" />
-</video>
+<p><img src="/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg" alt="Diseño" /></p>
 
-<p>Cabe destacar que se puede hacer zoom mediante atajo de teclado, menú o con la rueda del ratón.</p>
+<p>Se han especificado una quincena de instrucciones: operaciones de ALU, operaciones de carga de datos, operaciones de entrada/salida, saltos incondicionales, saltos condicionale y saltos a subrutina con retorno. Todas ellas utilizan un Opcode variable entre 4 y 6 bits.</p>
 
-<p>También contiene algunas utilidades como abrir con otra aplicación, abrir la ubicación de la imagen o cambiar el nombre de la misma.</p>
+<p>Para comprobar el correcto funcionamiento de la CPU, escribimos un pequeño código en binario de una calculadora que utilizaba algunas de las instrucciones descritas anteriormente, como las operaciones aritméticas, los saltos y la interacción entre la entrada y salida.</p>
 
-<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
-  <source src="http://zippy.gfycat.com/PoisedEsteemedHeron.webm" type="video/webm" />
-</video>
-<p><br /></p>
+<p>Sin embargo, como codificar instrucciones en binario es una lata, decidimos implementar un ensamblador para nuestra CPU.</p>
 
 <h4 id="uso">Uso</h4>
 
-<p>Desde Github se puede descargar el código fuente. Para poder compilarlo y posteriormente ejecutarlo es necesario tener <a href="http://www.qt.io/download/">Qt 5 o superior</a>. Ha sido testeado en las versiones 5.4 y 5.5.</p>
+<p>Desde Github se puede descargar el código fuente. El proyecto ha sido probado con el software oficial Altera Quartus II v12.1 bajo Linux y la <a href="http://www.terasic.com.tw/cgi-bin/page/archive.pl?No=83">fpga Altera DE1</a>.</p>
+
+<p><img src="/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg" alt="FPGA Altera DE1" /></p>
 
 <h4 id="opinin-personal">Opinión personal</h4>
 
-<p>Este fue uno de mis primeros proyectos con Qt, y pienso que es una muy buena forma de empezar con este potente framework, ya que contiene algunos elementos básicos como la utilización de menús y botones, además de trabajar con gráficos e imágenes.</p>
+<p>A día de hoy, este proyecto lo sigo considerando uno de los mayores retos. Ya no solo por el hecho de realizar mi propia CPU, que se dice pronto, sino por tener que trabajar de una manera totalmente diferente a la que estaba acostumbrado.</p>
+
+<p>Verilog es un lenguaje de descripción de hardware, y realmente no tiene nada que ver con cualquier lenguaje de programación convencional, la forma de enfocar el problema, y de como este se puede resolver es distinta.</p>
+
+<p>Por supuesto, la recompensa de haberlo finalizado supera todo el esfuerzo realizado.</p>
 
 
         </div>
@@ -143,16 +146,14 @@
             <div class="spacing"></div>
             <h4>Acerca del proyecto</h4>
             <div class="hline"></div>
-            <p><b>Fecha:</b> 25 de Febrero de 2015</p>
-            <p><b>Lenguaje:</b> Qt/C++</p>
-            <p><b>Autor/es:</b> Miguel Hernández</p>
-            <p><b>Encargado de:</b> Todo</p>
-            <p><b>Código fuente:</b> <a href="https://github.com/Madh93/Qt5-ImageViewer">https://github.com/Madh93/Qt5-ImageViewer</a></p>
+            <p><b>Fecha:</b> 10 de Mayo de 2015</p>
+            <p><b>Lenguaje:</b> Verilog</p>
+            <p><b>Autor/es:</b> Miguel Hernández, José Alberto Mena García</p>
+            <p><b>Encargado de:</b> Programación</p>
+            <p><b>Código fuente:</b> <a href="https://github.com/Madh93/scpu/tree/cc24d6b685c251c87f29c7cc732201d59178be3d">https://github.com/Madh93/scpu/tree/cc24d6b685c251c87f29c7cc732201d59178be3d</a></p>
             <p><b>Tags:</b> 
             
-                <a class="btn btn-theme" href="/categorias/#c++" role="button">C++</a>  
-            
-                <a class="btn btn-theme" href="/categorias/#qt" role="button">Qt</a>  
+                <a class="btn btn-theme" href="/categorias/#verilog" role="button">Verilog</a>  
              
             </p>
         </div>
@@ -224,7 +225,7 @@
     <script type="text/javascript">
         // var disqus_developer = 1; // Comment out when the site is live
         var disqus_shortname = 'migueldhdez'; // required: replace example with your forum shortname
-        var disqus_identifier = "/visor-de-imagenes-en-qt";
+        var disqus_identifier = "/realizacion-de-una-cpu-simple";
 
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
