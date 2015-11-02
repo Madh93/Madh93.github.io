@@ -3,10 +3,10 @@
   <channel>
     <title>Miguel Hernández</title>
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
-    <link>http://www.migueldhdez.com/</link>
-    <atom:link href="http://www.migueldhdez.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Nov 2015 20:06:04 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2015 20:06:04 +0000</lastBuildDate>
+    <link>http://www.migueldhdez.me/</link>
+    <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 02 Nov 2015 23:22:11 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2015 23:22:11 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -21,9 +21,10 @@
 
 &lt;p&gt;La CPU cuenta con una memoria de instrucciones con capacidad de 1024 instrucciones, un banco de 16 registros de 8 bits, una ALU con operaciones como asignación, suma, resta, and, or, diferencia, etc. y cuatro puertos de entrada/salida.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg&quot; alt=&quot;Diseño&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Se han especificado una quincena de instrucciones: operaciones de ALU, operaciones de carga de datos, operaciones de entrada/salida, saltos incondicionales, saltos condicionale y saltos a subrutina con retorno. Todas ellas utilizan un Opcode variable entre 4 y 6 bits.&lt;/p&gt;
+&lt;p&gt;&lt;a data-rel=&quot;prettyPhoto&quot; href=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg&quot; data-animate=&quot;fadeInUp&quot;&gt;
+  &lt;img src=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg&quot; alt=&quot;Diseño de la CPU&quot; /&gt;
+&lt;/a&gt;
+Se han especificado una quincena de instrucciones: operaciones de ALU, operaciones de carga de datos, operaciones de entrada/salida, saltos incondicionales, saltos condicionale y saltos a subrutina con retorno. Todas ellas utilizan un Opcode variable entre 4 y 6 bits.&lt;/p&gt;
 
 &lt;p&gt;Para comprobar el correcto funcionamiento de la CPU, escribimos un pequeño código en binario de una calculadora que utilizaba algunas de las instrucciones descritas anteriormente, como las operaciones aritméticas, los saltos y la interacción entre la entrada y salida.&lt;/p&gt;
 
@@ -33,7 +34,9 @@
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. El proyecto ha sido probado con el software oficial Altera Quartus II v12.1 bajo Linux y la &lt;a href=&quot;http://www.terasic.com.tw/cgi-bin/page/archive.pl?No=83&quot;&gt;fpga Altera DE1&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg&quot; alt=&quot;FPGA Altera DE1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-rel=&quot;prettyPhoto&quot; href=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg&quot; data-animate=&quot;fadeInUp&quot;&gt;
+  &lt;img src=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg&quot; alt=&quot;FPGA Altera DE1&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
@@ -44,8 +47,8 @@
 &lt;p&gt;Por supuesto, la recompensa de haberlo finalizado supera todo el esfuerzo realizado.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Oct 2015 23:54:45 +0000</pubDate>
-        <link>http://www.migueldhdez.com/realizacion-de-una-cpu-simple</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/realizacion-de-una-cpu-simple</guid>
+        <link>http://www.migueldhdez.me/realizacion-de-una-cpu-simple</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/realizacion-de-una-cpu-simple</guid>
         
         
         <category>proyectos</category>
@@ -90,8 +93,8 @@
 &lt;p&gt;No fue un tema fácil de entender, sin embargo la realización de un protocolo FTP como ejemplo fue indispensable para entender la el funcionamiento de los sockets, y ya de paso profundizar en el funcionamiento de FTP (existiendo los conocidos modo activo y modo pasivo).&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Oct 2015 02:33:41 +0100</pubDate>
-        <link>http://www.migueldhdez.com/implementacion-de-ftp</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/implementacion-de-ftp</guid>
+        <link>http://www.migueldhdez.me/implementacion-de-ftp</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/implementacion-de-ftp</guid>
         
         
         <category>proyectos</category>
@@ -134,8 +137,8 @@
 &lt;p&gt;Este fue uno de mis primeros proyectos con Qt, y pienso que es una muy buena forma de empezar con este potente framework, ya que contiene algunos elementos básicos como la utilización de menús y botones, además de trabajar con gráficos e imágenes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 20:54:42 +0100</pubDate>
-        <link>http://www.migueldhdez.com/visor-de-imagenes-en-qt</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/visor-de-imagenes-en-qt</guid>
+        <link>http://www.migueldhdez.me/visor-de-imagenes-en-qt</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/visor-de-imagenes-en-qt</guid>
         
         
         <category>proyectos</category>
@@ -167,8 +170,8 @@
 &lt;p&gt;Por otra parte, en menos de un mes empezaré mi último curso y aún ni siquiera se que aprenderé exactamente, pero subiré todos aquellos proyectos interesantes que ojalá no sean pocos. De momento un anticipo: &lt;a href=&quot;https://github.com/Madh93&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 23:53:24 +0100</pubDate>
-        <link>http://www.migueldhdez.com/hola-mundo</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/hola-mundo</guid>
+        <link>http://www.migueldhdez.me/hola-mundo</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/hola-mundo</guid>
         
         
         <category>blog</category>
@@ -184,8 +187,8 @@
 &lt;p&gt;El diseño original se titula “Solid” hecho por &lt;a href=&quot;http://blacktie.co/&quot;&gt;BlackTie.co&lt;/a&gt; y &lt;a href=&quot;https://github.com/st4ple/solid-jekyll&quot;&gt;adaptado a Jekyll&lt;/a&gt; por Oliver Stapleton. Quería realizar un sitio sin tener que preocuparme de la elaboración del diseño. Y eso es lo que hecho, la idea original del diseño la he dejado intacta, mientras que en el resto de apartados como la mayor parte de la funcionalidad lo he modificado a lo que he creído acorde con mis necesidades.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Aug 2015 23:31:56 +0100</pubDate>
-        <link>http://www.migueldhdez.com/preguntas/</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/preguntas/</guid>
+        <link>http://www.migueldhdez.me/preguntas/</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/preguntas/</guid>
         
         
         <category>preguntas</category>
@@ -201,8 +204,8 @@
 &lt;p&gt;Sin todas estás páginas y muchas más que no he podido mencionar, no podría hacer muchas de las cosas que puedo hacer hoy en día y que todavía me quedan por aprender.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Aug 2015 20:54:46 +0100</pubDate>
-        <link>http://www.migueldhdez.com/preguntas/</link>
-        <guid isPermaLink="true">http://www.migueldhdez.com/preguntas/</guid>
+        <link>http://www.migueldhdez.me/preguntas/</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/preguntas/</guid>
         
         
         <category>preguntas</category>

@@ -26,8 +26,9 @@ Tradicionalmente una CPU ejecuta una instrucción tras otra. Estas instrucciones
 
 La CPU cuenta con una memoria de instrucciones con capacidad de 1024 instrucciones, un banco de 16 registros de 8 bits, una ALU con operaciones como asignación, suma, resta, and, or, diferencia, etc. y cuatro puertos de entrada/salida.
 
-![Diseño](/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg)
-
+<a data-rel="prettyPhoto" href="/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg" data-animate="fadeInUp">
+  ![Diseño de la CPU](/assets/img/projects/content/realizacion-de-una-cpu-simple01.jpg)
+</a>
 Se han especificado una quincena de instrucciones: operaciones de ALU, operaciones de carga de datos, operaciones de entrada/salida, saltos incondicionales, saltos condicionale y saltos a subrutina con retorno. Todas ellas utilizan un Opcode variable entre 4 y 6 bits.
 
 Para comprobar el correcto funcionamiento de la CPU, escribimos un pequeño código en binario de una calculadora que utilizaba algunas de las instrucciones descritas anteriormente, como las operaciones aritméticas, los saltos y la interacción entre la entrada y salida.
@@ -38,7 +39,9 @@ Sin embargo, como codificar instrucciones en binario es una lata, decidimos impl
 
 Desde Github se puede descargar el código fuente. El proyecto ha sido probado con el software oficial Altera Quartus II v12.1 bajo Linux y la [fpga Altera DE1](http://www.terasic.com.tw/cgi-bin/page/archive.pl?No=83).
 
-![FPGA Altera DE1](/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg)
+<a data-rel="prettyPhoto" href="/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg" data-animate="fadeInUp">
+  ![FPGA Altera DE1](/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg)
+</a>
 
 ####Opinión personal
 
