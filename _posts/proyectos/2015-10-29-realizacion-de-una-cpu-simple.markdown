@@ -33,7 +33,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 
 Para comprobar el correcto funcionamiento de la CPU, escribimos un pequeño código en binario de una calculadora que utilizaba algunas de las instrucciones descritas anteriormente, como las operaciones aritméticas, los saltos y la interacción entre la entrada y salida.
 
-Sin embargo, como codificar instrucciones en binario es una lata, decidimos implementar un ensamblador para nuestra CPU.
+Sin embargo, como codificar instrucciones en binario es una lata, decidimos implementar un [ensamblador para nuestra CPU](http://www.migueldhdez.me/ensamblador-en-ruby/).
 
 ####Uso
 
