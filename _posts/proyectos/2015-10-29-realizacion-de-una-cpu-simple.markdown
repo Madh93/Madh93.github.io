@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "REALIZACIÓN DE UNA CPU SIMPLE"
+title:  "Realización de una CPU simple"
 date:   2015-10-29 23:54:45
 release: 10 de Mayo de 2015
 language: Verilog

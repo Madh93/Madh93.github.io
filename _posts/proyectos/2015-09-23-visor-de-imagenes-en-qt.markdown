@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "VISOR DE IMÁGENES EN QT"
+title:  "Visor de imágenes en Qt"
 date:   2015-09-23 19:54:42
 release: 25 de Febrero de 2015
 language: Qt/C++

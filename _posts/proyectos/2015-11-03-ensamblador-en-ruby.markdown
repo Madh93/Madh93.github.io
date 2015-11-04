@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "ENSAMBLADOR EN RUBY"
+title:  "Ensamblador en Ruby"
 date:   2015-11-03 00:47:12
 release: 10 de Mayo de 2015
 language: Ruby

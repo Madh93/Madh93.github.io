@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "IMPLEMENTACIÓN DE FTP"
+title:  "Implementación de FTP"
 date:   2015-10-04 01:33:41
 release: 16 de Mayo de 2014
 language: C/C++

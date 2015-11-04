@@ -5,12 +5,12 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.me/</link>
     <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Nov 2015 02:12:05 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2015 02:12:05 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2015 17:12:39 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 17:12:39 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Proyectos: ENSAMBLADOR EN RUBY</title>
+        <title>Proyectos: Ensamblador en Ruby</title>
         <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Un ensamblador escrito en Ruby para la &lt;a href=&quot;http://www.migueldhdez.me/realizacion-de-una-cpu-simple/&quot;&gt;CPU monociclo de 16-bit realizada en verilog&lt;/a&gt;.&lt;/p&gt;
@@ -62,7 +62,7 @@
       </item>
     
       <item>
-        <title>Proyectos: REALIZACIÓN DE UNA CPU SIMPLE</title>
+        <title>Proyectos: Realización de una CPU simple</title>
         <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de una CPU monociclo de 16-bit realizada en Verilog, un ejemplo perfecto para entender desde lo más básico cual es el verdadero funcionamiento de un microprocesador.&lt;/p&gt;
@@ -110,7 +110,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
       </item>
     
       <item>
-        <title>Proyectos: IMPLEMENTACIÓN DE FTP</title>
+        <title>Proyectos: Implementación de FTP</title>
         <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de una implementación del protocolo &lt;a href=&quot;https://es.wikipedia.org/wiki/File_Transfer_Protocol&quot;&gt;FTP&lt;/a&gt; escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets.&lt;/p&gt;
@@ -158,7 +158,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
       </item>
     
       <item>
-        <title>Proyectos: VISOR DE IMÁGENES EN QT</title>
+        <title>Proyectos: Visor de imágenes en Qt</title>
         <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de un visor de imágenes escrito en C++ mediante el framework &lt;a href=&quot;http://www.qt.io/&quot;&gt;Qt&lt;/a&gt; que permite abrir y visualizar imágenes de diferentes formatos.&lt;/p&gt;
