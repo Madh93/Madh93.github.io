@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="/assets/img/favicon.png">
 
-    <title>Miguel Hernández</title>
+    <title>Miguel Hernández - Implementación de FTP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.css" rel="stylesheet">
@@ -60,44 +60,120 @@
   </div>
 </div>
 
-            <div id="headerwrap">
+            <div id="blue">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h3>Hola, mi nombre es</h3>
-                <h1>Miguel Hernández</h1>
-                <h5>Descubre todo mi trabajo a lo largo de estos años</h5>
-                <h5>además de futuros proyectos personales.</h5>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 himg">
-                <img src="/assets/img/index.png" class="img-responsive">
-            </div>
+            <h3>Implementación de FTP</h3>
         </div><!-- /row -->
     </div> <!-- /container -->
-</div><!-- /headerwrap -->
+</div><!-- /blue -->
 
-  <div id="service">
-    <div class="container">
-        <div class="row centered">
-            <h3>ENTRADAS MÁS RECIENTES</h3>
+<div class="container mt">
+    <div class="row">
+
+        <div class="col-lg-10 col-lg-offset-1 centered">
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
             
-            <div class="col-md-4">
-                <h4>Hola Mundo</h4>
-                <p><p>¿Cómo no empezar el blog de un futuro ingeniero informático sin las dos palabras más famosas en el mundo de la programación?</p>
+                <li data-target="#carousel-example-generic" data-slide-to="0" 
+                
+                    class="active"
+                >
+                </li>
+            
+                <li data-target="#carousel-example-generic" data-slide-to="1" 
+                >
+                </li>
+            
+                <li data-target="#carousel-example-generic" data-slide-to="2" 
+                >
+                </li>
+            
+        </ol>
 
-<p>Desde hace años, leo a diario muchos blogs y jamás se me pasó por la cabeza la idea de realizar uno propio. Siempre lo he tenido claro: soy buen lector, no redactor. Y sin embargo estoy escribiendo la primera entrada de un blog, curioso.</p>
-
-</p>
-                <p><br/><a href="/hola-mundo" class="btn btn-theme">Más...</a></p>
-            </div>		
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            
+                <div class="item active">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp01.jpg" alt="">
+                </div>
+            
+            
+                <div class="item">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp02.jpg" alt="">
+                </div>
+            
+                <div class="item">
+                    <img src="/assets/img/projects/carousel/implementacion-de-ftp03.jpg" alt="">
+                </div>
             
         </div>
-    </div><!--/container -->
-</div><!--/service -->
+    </div> <!--/Carousel -->
+</div>
 
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            <h4 id="qu-es">¿Qué es?</h4>
+
+<p>Se trata de una implementación del protocolo <a href="https://es.wikipedia.org/wiki/File_Transfer_Protocol">FTP</a> escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets.</p>
+
+<p>Los sockets no son más que un mecanismo que permite la comunicación de datos entre dos dispositivo conociendo su dirección del protocolo y el número de puerto correspondiente.</p>
+
+<p>El protocolo FTP es un protocolo de red que trabaja sobre la capa de aplicación, el cual permite la transferencia de ficheros entre un servidor y un cliente.</p>
+
+<h4 id="caractersticas">Características</h4>
+
+<p>Para tener un protocolo FTP, lo básico es disponer de la posibilidad de descargar archivos desde el servidor, como subirlos a él. Estas acciones se pueden realizar tanto mediante modo “activo” como “pasivo”.</p>
+
+<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
+  <source src="http://zippy.gfycat.com/FocusedDistantHuman.webm" type="video/webm" />
+</video>
+
+<p>Además de esto, el usuario es posible navegar por el servidor ftp, moviéndose por los directorios del mismo, creando nuevas carpetas, o incluso eliminando algunos archivos.</p>
+
+<video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
+  <source src="http://zippy.gfycat.com/WeeklyMadFattaileddunnart.webm" type="video/webm" />
+</video>
+<p><br /></p>
+
+<h4 id="uso">Uso</h4>
+
+<p>Desde Github se puede descargar el código fuente. En el mismo repositorio están las instrucciones para compilar los archivos. Cabe mencionar, que para comprobar el funcionamiento lo correcto sería lanzar los clientes desde diferentes directorios al servidor.</p>
+
+<h4 id="opinin-personal">Opinión personal</h4>
+
+<p>Este proyecto, fue el proyecto final de una asignatura de Redes. El objetivo era entender el concepto de los sockets, los cuales son indispensables en las comunicaciones.</p>
+
+<p>No fue un tema fácil de entender, sin embargo la realización de un protocolo FTP como ejemplo fue indispensable para entender la el funcionamiento de los sockets, y ya de paso profundizar en el funcionamiento de FTP (existiendo los conocidos modo activo y modo pasivo).</p>
+
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Acerca del proyecto</h4>
+            <div class="hline"></div>
+            <p><b>Fecha:</b> 16 de Mayo de 2014</p>
+            <p><b>Lenguaje:</b> C/C++</p>
+            <p><b>Autor/es:</b> Miguel Hernández</p>
+            <p><b>Encargado de:</b> Programación</p>
+            <p><b>Código fuente:</b> <a href="https://github.com/Madh93/ftp">https://github.com/Madh93/ftp</a></p>
+            <p><b>Tags:</b> 
+            
+                <a class="btn btn-theme" href="/categorias/#C++" role="button">C++</a>  
+            
+                <a class="btn btn-theme" href="/categorias/#C" role="button">C</a>  
+             
+            </p>
+        </div>
+    </div><!--/row -->
+</div><!--/container -->
+	 
 <div id="portfoliowrap">
     <div class="portfolio-centered">
-        <h3>ÚLTIMOS PROYECTOS</h3>
+        <h3>Otros proyectos</h3>
         <div class="recentitems portfolio">
             
             <a href="/ensamblador-en-ruby">
@@ -167,80 +243,14 @@
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
 </div><!--/Portfoliowrap -->
-
-<div class="container mtb">
+<div class="container mt">
     <div class="row">
-        <div class="col-lg-4">
-            <h4>Tags populares</h4>
-            <div class="hline"></div>
-            <p>
+        <div class="col-lg-6 col-lg-offset-1">
+            <div class="spacing"></div>
             
-                <a class="btn btn-theme" href="/categorias/#Hola" role="button">Hola (1)</a>           
-            
-                <a class="btn btn-theme" href="/categorias/#C++" role="button">C++ (2)</a>           
-            
-                <a class="btn btn-theme" href="/categorias/#Qt" role="button">Qt (1)</a>           
-            
-                <a class="btn btn-theme" href="/categorias/#C" role="button">C (1)</a>           
-            
-                <a class="btn btn-theme" href="/categorias/#Verilog" role="button">Verilog (1)</a>           
-            
-                <a class="btn btn-theme" href="/categorias/#Ruby" role="button">Ruby (1)</a>           
-            
-            </p>
         </div>
-        <div class="col-lg-4 centered">
-            <h4>Más acerca de este sitio</h4>
-            <div class="hline"></div>
-            <p>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</p>
-            <p><br/><a href="/acerca/" class="btn btn-theme">Más...</a></p>
-        </div>
-        <div class="col-lg-4 text-right">
-            <h4>Preguntas más frecuentes</h4>
-            <div class="hline"></div>
-             
-                <p><a href="/preguntas/">¿Has hecho este sitio desde cero?</a></p>
-             
-                <p><a href="/preguntas/">¿Has aprendido contenido de forma autodidacta?</a></p>
-            
-            </p>
-        </div>
-    </div><!--/row -->
-</div><!--/container -->
-
-<div id="twrap">
-    <div id="twrapback"></div>
-    <div class="container centered">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-            <i class="fa fa-comment-o"></i>
-            <h1>"Solo por diversión"</h1>
-            <h3><br/>Linus Torvalds</h3>
-            <p>CREADOR DE LINUX</p>
-            </div>
-        </div><!--/row -->
-    </div><!--/container -->
-</div><!--/twrap -->
-<div id="cwrap">
-    <div class="container">
-        <div class="row centered">
-            <h3>REALIZADO CON</h3>
-            
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <a target="_blank" href="http://jekyllrb.com/"><img src="/assets/img/tools/tool01.png" class="img-responsive"></a>
-                </div>
-            
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <a target="_blank" href="http://blacktie.co/"><img src="/assets/img/tools/tool02.png" class="img-responsive"></a>
-                </div>
-            
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <a target="_blank" href="https://pages.github.com/"><img src="/assets/img/tools/tool03.png" class="img-responsive"></a>
-                </div>
-            
-        </div><!--/row -->
-    </div><!--/container -->
-</div><!--/cwrap -->
+    </div>
+</div>
 
         <div id="footerwrap">
     <div class="container">

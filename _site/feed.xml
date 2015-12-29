@@ -5,9 +5,9 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.me/</link>
     <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Nov 2015 17:12:39 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 17:12:39 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Tue, 29 Dec 2015 16:14:39 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2015 16:14:39 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Proyectos: Ensamblador en Ruby</title>
@@ -57,7 +57,7 @@
         
         <category>proyectos</category>
         
-        <category>ruby</category>
+        <category>Ruby</category>
         
       </item>
     
@@ -105,7 +105,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
         
         <category>proyectos</category>
         
-        <category>verilog</category>
+        <category>Verilog</category>
         
       </item>
     
@@ -151,9 +151,9 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
         
         <category>proyectos</category>
         
-        <category>c++</category>
+        <category>C++</category>
         
-        <category>c</category>
+        <category>C</category>
         
       </item>
     
@@ -195,9 +195,9 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
         
         <category>proyectos</category>
         
-        <category>c++</category>
+        <category>C++</category>
         
-        <category>qt</category>
+        <category>Qt</category>
         
       </item>
     
@@ -228,7 +228,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
         
         <category>blog</category>
         
-        <category>hola</category>
+        <category>Hola</category>
         
       </item>
     
