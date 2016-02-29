@@ -16,7 +16,7 @@ carousel:
 - ensamblador-en-ruby02.jpg
 ---
 
-####¿Qué es?
+#### ¿Qué es?
 
 Un ensamblador escrito en Ruby para la [CPU monociclo de 16-bit realizada en verilog](http://www.migueldhdez.me/realizacion-de-una-cpu-simple/).
 
@@ -24,7 +24,7 @@ Como había comentado en el proyecto de la CPU simple, para comprobar el funcion
 
 Un ensamblador no es más que un programa intermedio entre el software y el hardware, que traduce el código fuente escrito en lenguaje ensamblador a código máquina.
 
-####Características
+#### Características
 
 El ensamblador, se llama Rips debido a algunas semejanzas con [MIPS](https://en.wikipedia.org/wiki/MIPS_instruction_set). Este cuenta con las características más básicas de un ensamblador adaptadas a nuestra CPU:
 
@@ -39,13 +39,13 @@ El ensamblador, se llama Rips debido a algunas semejanzas con [MIPS](https://en.
 
 El funcionamiento es muy sencillo. La idea es leer código en ensamblador (llamémoslo instrucciones .rips) y generar código binario. El ensamblador se encarga de analizar la morfología y sintaxis de las instrucciones .rips.
 
-####Uso
+#### Uso
 
 Desde Github se puede descargar el código fuente y algunos ejemplos. También se puede instalar como gema desde la terminal o [RubyGems](https://rubygems.org/gems/rips). Rips ha sido testeado en las versiones 1.9.3, 2.0, 2.1 y 2.2 de Ruby y no requiere de ninguna dependencia extra a parte del propio intérprete de Ruby.
 
 Para consultar en detalle el funcionamiento está disponible la [documentación oficial](http://www.rubydoc.info/gems/rips/0.1.1).
 
-####Opinión personal
+#### Opinión personal
 
 Cuando me dieron la posibilidad de poder realizar un ensamblador para mi propia CPU, aunque suene a tópico, no lo dude ni un instante y me puse a ello desde el primer momento. Era algo que me llamaba mucho la atención.
 

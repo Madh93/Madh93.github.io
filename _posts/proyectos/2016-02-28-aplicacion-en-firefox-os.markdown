@@ -17,7 +17,7 @@ carousel:
 - aplicacion-en-firefox-os02.jpg
 ---
 
-####¿Qué es?
+#### ¿Qué es?
 
 Una aplicación nativa para [Firefox OS](https://www.mozilla.org/es-ES/firefox/os/2.0/).
 
@@ -25,7 +25,7 @@ Becas ULL es un aplicación muy sencilla que intenta ser un ejemplo de como casi
 
 La aplicación se conecta con el servicio de la [Universidad de La Laguna](https://www.ull.es) responsable de mostrar el estado de las becas de estudio de los alumnos.
 
-####Características
+#### Características
 
 Becas ULL se encarga de mostrar un front-end mas agradable que el que utiliza por defecto el servicio de la ULL. Se puede introducir un DNI, el cuál se envía al servicio y se recibe la respuesta del estado de la solicitud actual.
 
@@ -35,13 +35,13 @@ Becas ULL se encarga de mostrar un front-end mas agradable que el que utiliza po
 
 Como pequeño extra, presenta como utilidad el añadido de la última fecha de comprobación del estado.
 
-####Uso
+#### Uso
 
 Desde Github se puede descargar el código fuente. La aplicación se puede instalar desde cualquier [terminal](https://www.mozilla.org/es-ES/firefox/os/devices/) con Firefox OS o utilizando el simulador que incluye [Firefox WebIDE](https://developer.mozilla.org/es/docs/Tools/WebIDE).
 
 Basta con descargarla desde el [Firefox Marketplace](https://marketplace.firefox.com/app/becas-ull/).
 
-####Opinión personal
+#### Opinión personal
 
 Desde hace años he sido usuario del navegador web Mozilla Firefox. En mi opinión la fundación Mozilla es un claro ejemplo a seguir y un referente en lo que se refiere a software libre.
 

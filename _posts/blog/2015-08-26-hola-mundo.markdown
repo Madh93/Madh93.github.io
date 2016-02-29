@@ -14,7 +14,7 @@ thumb: thumb01.jpg
 
 Desde hace años, leo a diario muchos blogs y jamás se me pasó por la cabeza la idea de realizar uno propio. Siempre lo he tenido claro: soy buen lector, no redactor. Y sin embargo estoy escribiendo la primera entrada de un blog, curioso. <!--more-->
 
-####¿Por qué escribir un blog?
+#### ¿Por qué escribir un blog?
 
 Muchas personas tenemos siempre ideas en la cabeza de qué hacer cuando llegue verano, a veces esas ideas incluso llegan a nublar por completo nuestras actividades diarias, al menos en mi caso. Hace meses empecé a tener claro una cosa: tenía que darme a conocer. Aunque darse a conocer no tiene el mismo significado que ser famoso para mí, simplemente tener un pequeño hueco en internet donde poder ser localizado.
 
@@ -22,7 +22,7 @@ Ya desde que comencé mis estudios universitarios aprendí la palabra *compartir
 
 Todavía no he nombrado nada sobre el porqué del blog, y la única razón es que el blog ha surgido de imprevisto. Creo que mostrar solamente mis proyectos no es suficiente, y no está de mal dejar alguna que otra opinión o anécdota que me vaya sucediendo.
 
-####Los proyectos
+#### Los proyectos
 
 Ya he hecho una lista de los proyectos que tengo pendiente por compartir. La mayoría ya tienen algo de tiempo, así que por desgracia no será solo cosa de copiar y pegar, ya que necesito revisarlos y corregir errores.
 

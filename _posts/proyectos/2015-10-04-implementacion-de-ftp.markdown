@@ -18,7 +18,7 @@ carousel:
 - implementacion-de-ftp03.jpg
 ---
 
-####¿Qué es?
+#### ¿Qué es?
 
 Se trata de una implementación del protocolo [FTP](https://es.wikipedia.org/wiki/File_Transfer_Protocol) escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets. 
 
@@ -26,7 +26,7 @@ Los sockets no son más que un mecanismo que permite la comunicación de datos e
 
 El protocolo FTP es un protocolo de red que trabaja sobre la capa de aplicación, el cual permite la transferencia de ficheros entre un servidor y un cliente.
 
-####Características
+#### Características
 
 Para tener un protocolo FTP, lo básico es disponer de la posibilidad de descargar archivos desde el servidor, como subirlos a él. Estas acciones se pueden realizar tanto mediante modo "activo" como "pasivo".
 
@@ -41,11 +41,11 @@ Además de esto, el usuario es posible navegar por el servidor ftp, moviéndose 
 </video>
 <br>
 
-####Uso
+#### Uso
 
 Desde Github se puede descargar el código fuente. En el mismo repositorio están las instrucciones para compilar los archivos. Cabe mencionar, que para comprobar el funcionamiento lo correcto sería lanzar los clientes desde diferentes directorios al servidor.
 
-####Opinión personal
+#### Opinión personal
 
 Este proyecto, fue el proyecto final de una asignatura de Redes. El objetivo era entender el concepto de los sockets, los cuales son indispensables en las comunicaciones. 
 

@@ -17,11 +17,11 @@ carousel:
 - visor-de-imagenes-en-qt02.jpg
 ---
 
-####¿Qué es?
+#### ¿Qué es?
 
 Se trata de un visor de imágenes escrito en C++ mediante el framework [Qt](http://www.qt.io/) que permite abrir y visualizar imágenes de diferentes formatos.
 
-####Características
+#### Características
 
 Las imágenes se pueden ampliar, reducir y rotar.
 
@@ -38,10 +38,10 @@ También contiene algunas utilidades como abrir con otra aplicación, abrir la u
 </video>
 <br>
 
-####Uso
+#### Uso
 
 Desde Github se puede descargar el código fuente. Para poder compilarlo y posteriormente ejecutarlo es necesario tener [Qt 5 o superior](http://www.qt.io/download/). Ha sido testeado en las versiones 5.4 y 5.5.
 
-####Opinión personal
+#### Opinión personal
 
 Este fue uno de mis primeros proyectos con Qt, y pienso que es una muy buena forma de empezar con este potente framework, ya que contiene algunos elementos básicos como la utilización de menús y botones, además de trabajar con gráficos e imágenes.
