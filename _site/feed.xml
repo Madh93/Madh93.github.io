@@ -5,9 +5,56 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.me/</link>
     <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 29 Dec 2015 16:14:39 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2015 16:14:39 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 18:12:37 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 18:12:37 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Proyectos: Aplicación en Firefox OS</title>
+        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+
+&lt;p&gt;Una aplicación nativa para &lt;a href=&quot;https://www.mozilla.org/es-ES/firefox/os/2.0/&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Becas ULL es un aplicación muy sencilla que intenta ser un ejemplo de como casi cualquier aplicación web se puede portar a Firefox OS, donde todas las aplicaciones nativas, utilizan tecnologías web basadas en el uso de HTML5, CSS3 y Javascript.&lt;/p&gt;
+
+&lt;p&gt;La aplicación se conecta con el servicio de la &lt;a href=&quot;https://www.ull.es&quot;&gt;Universidad de La Laguna&lt;/a&gt; responsable de mostrar el estado de las becas de estudio de los alumnos.&lt;/p&gt;
+
+&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+
+&lt;p&gt;Becas ULL se encarga de mostrar un front-end mas agradable que el que utiliza por defecto el servicio de la ULL. Se puede introducir un DNI, el cuál se envía al servicio y se recibe la respuesta del estado de la solicitud actual.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;https://zippy.gfycat.com/JoyousColorlessAurochs.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Como pequeño extra, presenta como utilidad el añadido de la última fecha de comprobación del estado.&lt;/p&gt;
+
+&lt;h4 id=&quot;uso&quot;&gt;Uso&lt;/h4&gt;
+
+&lt;p&gt;Desde Github se puede descargar el código fuente. La aplicación se puede instalar desde cualquier &lt;a href=&quot;https://www.mozilla.org/es-ES/firefox/os/devices/&quot;&gt;terminal&lt;/a&gt; con Firefox OS o utilizando el simulador que incluye &lt;a href=&quot;https://developer.mozilla.org/es/docs/Tools/WebIDE&quot;&gt;Firefox WebIDE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basta con descargarla desde el &lt;a href=&quot;https://marketplace.firefox.com/app/becas-ull/&quot;&gt;Firefox Marketplace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+
+&lt;p&gt;Desde hace años he sido usuario del navegador web Mozilla Firefox. En mi opinión la fundación Mozilla es un claro ejemplo a seguir y un referente en lo que se refiere a software libre.&lt;/p&gt;
+
+&lt;p&gt;Hace algo más de dos años me enteré de la existencia de Firefox OS gracias a un Mooc de &lt;a href=&quot;https://miriadax.net/&quot;&gt;Miriada X&lt;/a&gt; sobre de HTML5 y Javascript. Me gustó mucho la idea de utilizar apps webs como nativas, y sobretodo de tener otra opción a tener en cuenta entre los grandes del mundillo (Android e iOS, y recientemente Windows Phone).&lt;/p&gt;
+
+&lt;p&gt;Firefox OS fue una idea arriesgada, pero con una buena base. Sin embargo, esto no siempre garantiza el éxito, y es que recientemente se ha cancelado el proyecto, una lástima.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Feb 2016 17:47:12 +0000</pubDate>
+        <link>http://www.migueldhdez.me/aplicacion-en-firefox-os</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/aplicacion-en-firefox-os</guid>
+        
+        
+        <category>proyectos</category>
+        
+        <category>Html5</category>
+        
+        <category>CSS3</category>
+        
+      </item>
     
       <item>
         <title>Proyectos: Ensamblador en Ruby</title>
