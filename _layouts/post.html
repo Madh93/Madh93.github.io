@@ -31,7 +31,7 @@ comments: true
                 de
                 {{  page.date | date: '%Y' }}</em>, por {{ page.author }}</csmall></p>
               
-            {{ content }}
+            {{ content | markdownify }}
 
             <div class="spacing"></div>
             <h6>COMPARTIR:</h6>
