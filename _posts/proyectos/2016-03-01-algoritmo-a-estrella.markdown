@@ -20,7 +20,7 @@ carousel:
 
 #### ¿Qué es?
 
-Una implementación del [algoritmo de búsqueda A*](https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A*) desarrollado en Qt.
+Una implementación del [algoritmo de búsqueda A\*](https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A*) desarrollado en Qt.
 
 Suponiendo que tenemos un sistema cuyo fin es encontrar la trayectoria, o camino mínimo dentro de unos rangos asignados, evitando cualquier tipo de obstáculos. La ambientación del sistema muestra la necesidad de un taxi en encontrar a un peatón a lo largo de la ciudad, teniendo que evitar edificios, parques y zonas en obras.
 
