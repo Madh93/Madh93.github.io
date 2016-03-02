@@ -5,9 +5,53 @@
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
     <link>http://www.migueldhdez.me/</link>
     <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 02 Mar 2016 21:21:01 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2016 21:21:01 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Mar 2016 23:50:20 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Mar 2016 23:50:20 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Proyectos: Procesamiento de imágenes</title>
+        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+
+&lt;p&gt;Una aplicación que sirve de introducción al &lt;a href=&quot;https://es.wikipedia.org/wiki/Procesamiento_digital_de_im%C3%A1genes&quot;&gt;procesamiento de imágenes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Antes de adentrarse en profundidad en el procesamiento de imágenes es necesario controlar una serie de aspectos básicos como el uso de transformaciones lineales, transformaciones no lineales, operaciones de filtrado, operaciones geométricas, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+
+&lt;p&gt;La aplicación esta pensada para trabajar con un solo nivel de color (grises). Tiene varias características interesantes selecciones aréas de interés o cálcular la diferencia entre dos imágenes.&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;https://zippy.gfycat.com/MinorEssentialDodobird.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Por otra parte, cuenta con una gran cantidad de operaciones geométricas, como la escala de la imagen o la rotación, usando diferentes técnicas (vecino más próximo o bilinel).&lt;/p&gt;
+
+&lt;video autoplay=&quot;&quot; controls=&quot;&quot; loop=&quot;&quot; class=&quot;video-js vjs-default-skin col-lg-12&quot; data-setup=&quot;{}&quot;&gt;
+  &lt;source src=&quot;https://zippy.gfycat.com/BeautifulFondConch.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;uso&quot;&gt;Uso&lt;/h4&gt;
+
+&lt;p&gt;Desde Github se puede descargar el código fuente. Se ha trabajado sobre el IDE &lt;a href=&quot;https://eclipse.org/mars/&quot;&gt;Eclipse Mars&lt;/a&gt;, por lo que para ejecutarlo es recomendable usarlo, y así importar directamente el proyecto.&lt;/p&gt;
+
+&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+
+&lt;p&gt;Mi primer y único proyecto hasta el momento en Java. Siempre he sido distante a este lenguaje, pero tras usarlo debo decir que tiene razones de peso para ser de los más utilizados. En cuanto al procesamiento de imágenes, aprendí muchísimo junto a mi compañero a pesar de mostrar una pequeñísima parte de ese mundo.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Mar 2016 22:16:48 +0000</pubDate>
+        <link>http://www.migueldhdez.me/procesamiento-de-imagenes</link>
+        <guid isPermaLink="true">http://www.migueldhdez.me/procesamiento-de-imagenes</guid>
+        
+        
+        <category>proyectos</category>
+        
+        <category>Java</category>
+        
+        <category>Algoritmos</category>
+        
+      </item>
     
       <item>
         <title>Proyectos: Algoritmo de búsqueda A*</title>
