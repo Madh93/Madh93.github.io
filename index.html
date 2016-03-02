@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-<div id="service">
+<!-- <div id="service">
     <div class="container">
         <div class="row centered">
             <h3>ENTRADAS MÁS RECIENTES</h3>
@@ -16,10 +16,18 @@ permalink: /
             </div>		
             {% endfor %}
         </div>
-    </div><!--/container -->
-</div><!--/service -->
+    </div>
+</div> -->
 
 {% include portfolio.html title="ÚLTIMOS PROYECTOS" limit=5 %}
+
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <h3>...y <a href="{{ "/proyectos/" | prepend: site.baseurl }}"> {{ site.categories['proyectos'] | size | minus: 5 }} proyecto</a> más</h3>
+        </div>
+    </div><!--/container -->
+</div><!--/service -->
 
 <div class="container mtb">
     <div class="row">
