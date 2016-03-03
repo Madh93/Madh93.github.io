@@ -26,7 +26,7 @@ Antes de adentrarse en profundidad en el procesamiento de imágenes es necesario
 
 #### Características
 
-La aplicación esta pensada para trabajar con un solo nivel de color (grises). Tiene varias características interesantes selecciones aréas de interés o cálcular la diferencia entre dos imágenes.
+La aplicación esta pensada para trabajar con un solo nivel de color (grises). Tiene varias características interesantes selecciones áreas de interés o calcular la diferencia entre dos imágenes.
 
 <video autoplay="" controls="" loop="" class="video-js vjs-default-skin col-lg-12" data-setup="{}">
   <source src="https://zippy.gfycat.com/MinorEssentialDodobird.webm" type="video/webm">
