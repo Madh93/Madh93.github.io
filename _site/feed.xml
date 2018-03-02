@@ -3,21 +3,21 @@
   <channel>
     <title>Miguel Hernández</title>
     <description>Dejando rastro de mi viaje hacia el conocimiento, compartiendo algunas historias y los proyectos más interesantes con los que me he tenido que topar y superar.</description>
-    <link>http://www.migueldhdez.me/</link>
-    <atom:link href="http://www.migueldhdez.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Oct 2016 14:12:39 +0100</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2016 14:12:39 +0100</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>https://madh93.github.io/</link>
+    <atom:link href="https://madh93.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 02 Mar 2018 09:45:14 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 09:45:14 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>proyectos: Que Hago Hoy</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://quehagohoy.herokuapp.com/&quot;&gt;Que Hago Hoy&lt;/a&gt; es una aplicación web realizada en &lt;a href=&quot;http://rubyonrails.org/&quot;&gt;Ruby on Rails&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Tiene como objetivo encontrar los mejores lugares y planes que realizar en la ciudad de La Laguna, parecido a lo que ofrecen otros servicios como Foursquare. A través de la opinión del resto de usuarios podemos elegir que plan se ajusta mejor, y lo podemos localizar fácilmente gracias al uso de geolocalización.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;Como carta de presentación, la aplicación ofrece algunas opciones aleatorias en función de la localización del usuario, además de las novedades más recientes. La aplicación organiza los lugares en diferentes categorías para hacer más fácil la búsqueda de nuevos lugares. Por otro lado, cada sitio cuenta con una descripción y algunos datos de interés, así como su localización.&lt;/p&gt;
 
@@ -31,13 +31,13 @@
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. La forma más sencilla es probarla desde &lt;a href=&quot;https://quehagohoy.herokuapp.com/&quot;&gt;Heroku&lt;/a&gt; donde está alojada la aplicación. Hay que tener en cuenta que algunos servicios como el registro y logueo están deshabilitados a día de hoy.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Que mejor forma de realizar un proyecto web tomando como base uno de mis lenguajes favoritos: Ruby. Este proyecto lo realicé junto a tres compañeros más, cada uno con una tarea específica. Yo me encargue del backend y algún retoque en el frontend. Fue primer proyecto en Rails, y acabe muy contento con este framework: el desarrollo web que no molesta.&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Mar 2016 09:47:28 +0000</pubDate>
-        <link>http://www.migueldhdez.me/que-hago-hoy</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/que-hago-hoy</guid>
+        <link>https://madh93.github.io/que-hago-hoy</link>
+        <guid isPermaLink="true">https://madh93.github.io/que-hago-hoy</guid>
         
         
         <category>proyectos</category>
@@ -56,13 +56,13 @@
     
       <item>
         <title>proyectos: Procesamiento de imágenes</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Una aplicación que sirve de introducción al &lt;a href=&quot;https://es.wikipedia.org/wiki/Procesamiento_digital_de_im%C3%A1genes&quot;&gt;procesamiento de imágenes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Antes de adentrarse en profundidad en el procesamiento de imágenes es necesario controlar una serie de aspectos básicos como el uso de transformaciones lineales, transformaciones no lineales, operaciones de filtrado, operaciones geométricas, etc.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;La aplicación esta pensada para trabajar con un solo nivel de color (grises). Tiene varias características interesantes selecciones áreas de interés o calcular la diferencia entre dos imágenes.&lt;/p&gt;
 
@@ -81,13 +81,13 @@
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. Se ha trabajado sobre el IDE &lt;a href=&quot;https://eclipse.org/mars/&quot;&gt;Eclipse Mars&lt;/a&gt;, por lo que para ejecutarlo es recomendable usarlo, y así importar directamente el proyecto.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Mi primer y único proyecto hasta el momento en Java. Siempre he sido distante a este lenguaje, pero tras usarlo debo decir que tiene razones de peso para ser de los más utilizados. En cuanto al procesamiento de imágenes, aprendí muchísimo junto a mi compañero a pesar de mostrar una pequeñísima parte de ese mundo.&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Mar 2016 22:16:48 +0000</pubDate>
-        <link>http://www.migueldhdez.me/procesamiento-de-imagenes</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/procesamiento-de-imagenes</guid>
+        <link>https://madh93.github.io/procesamiento-de-imagenes</link>
+        <guid isPermaLink="true">https://madh93.github.io/procesamiento-de-imagenes</guid>
         
         
         <category>proyectos</category>
@@ -100,13 +100,13 @@
     
       <item>
         <title>proyectos: Algoritmo de búsqueda A*</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Una implementación del &lt;a href=&quot;https://es.wikipedia.org/wiki/Algoritmo_de_b%C3%BAsqueda_A*&quot;&gt;algoritmo de búsqueda A*&lt;/a&gt; desarrollado en Qt.&lt;/p&gt;
 
 &lt;p&gt;Suponiendo que tenemos un sistema cuyo fin es encontrar la trayectoria, o camino mínimo dentro de unos rangos asignados, evitando cualquier tipo de obstáculos. La ambientación del sistema muestra la necesidad de un taxi en encontrar a un peatón a lo largo de la ciudad, teniendo que evitar edificios, parques y zonas en obras.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;El programa se divide en dos partes. Primero se debe generar un escenario, de tamaño MxN. Posteriormente se colocan los obstáculos, añadiéndolos de forma manual, o de forma aleatoria.&lt;/p&gt;
 
@@ -127,13 +127,13 @@
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. Para poder compilarlo y posteriormente ejecutarlo es necesario tener &lt;a href=&quot;http://www.qt.io/download/&quot;&gt;Qt 5 o superior&lt;/a&gt;. Ha sido testeado en las versiones 5.4 y 5.5.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Este fue mi primer proyecto utilizando Qt, y no solo eso, el primero en utilizar una interfaz gráfica, y pienso que el resultado final sigue sin decepcionarme a día de hoy. Fue un proyecto que hice junto a otros dos amigos, y salió adelante gracias a la buena compenetración, y es que cada uno aportó en lo que más destacaba.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Mar 2016 00:26:23 +0000</pubDate>
-        <link>http://www.migueldhdez.me/algoritmo-a-estrella</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/algoritmo-a-estrella</guid>
+        <link>https://madh93.github.io/algoritmo-a-estrella</link>
+        <guid isPermaLink="true">https://madh93.github.io/algoritmo-a-estrella</guid>
         
         
         <category>proyectos</category>
@@ -148,7 +148,7 @@
     
       <item>
         <title>proyectos: Aplicación en Firefox OS</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Una aplicación nativa para &lt;a href=&quot;https://www.mozilla.org/es-ES/firefox/os/2.0/&quot;&gt;Firefox OS&lt;/a&gt;.&lt;/p&gt;
 
@@ -156,7 +156,7 @@
 
 &lt;p&gt;La aplicación se conecta con el servicio de la &lt;a href=&quot;https://www.ull.es&quot;&gt;Universidad de La Laguna&lt;/a&gt; responsable de mostrar el estado de las becas de estudio de los alumnos.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;Becas ULL se encarga de mostrar un front-end mas agradable que el que utiliza por defecto el servicio de la ULL. Se puede introducir un DNI, el cuál se envía al servicio y se recibe la respuesta del estado de la solicitud actual.&lt;/p&gt;
 
@@ -172,7 +172,7 @@
 
 &lt;p&gt;Basta con descargarla desde el &lt;a href=&quot;https://marketplace.firefox.com/app/becas-ull/&quot;&gt;Firefox Marketplace&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Desde hace años he sido usuario del navegador web Mozilla Firefox. En mi opinión la fundación Mozilla es un claro ejemplo a seguir y un referente en lo que se refiere a software libre.&lt;/p&gt;
 
@@ -181,8 +181,8 @@
 &lt;p&gt;Firefox OS fue una idea arriesgada, pero con una buena base. Sin embargo, esto no siempre garantiza el éxito, y es que recientemente se ha cancelado el proyecto, una lástima.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Feb 2016 17:47:12 +0000</pubDate>
-        <link>http://www.migueldhdez.me/aplicacion-en-firefox-os</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/aplicacion-en-firefox-os</guid>
+        <link>https://madh93.github.io/aplicacion-en-firefox-os</link>
+        <guid isPermaLink="true">https://madh93.github.io/aplicacion-en-firefox-os</guid>
         
         
         <category>proyectos</category>
@@ -195,7 +195,7 @@
     
       <item>
         <title>proyectos: Ensamblador en Ruby</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Un ensamblador escrito en Ruby para la &lt;a href=&quot;http://www.migueldhdez.me/realizacion-de-una-cpu-simple/&quot;&gt;CPU monociclo de 16-bit realizada en verilog&lt;/a&gt;.&lt;/p&gt;
 
@@ -203,7 +203,7 @@
 
 &lt;p&gt;Un ensamblador no es más que un programa intermedio entre el software y el hardware, que traduce el código fuente escrito en lenguaje ensamblador a código máquina.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;El ensamblador, se llama Rips debido a algunas semejanzas con &lt;a href=&quot;https://en.wikipedia.org/wiki/MIPS_instruction_set&quot;&gt;MIPS&lt;/a&gt;. Este cuenta con las características más básicas de un ensamblador adaptadas a nuestra CPU:&lt;/p&gt;
 
@@ -226,7 +226,7 @@
 
 &lt;p&gt;Para consultar en detalle el funcionamiento está disponible la &lt;a href=&quot;http://www.rubydoc.info/gems/rips/0.1.1&quot;&gt;documentación oficial&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Cuando me dieron la posibilidad de poder realizar un ensamblador para mi propia CPU, aunque suene a tópico, no lo dude ni un instante y me puse a ello desde el primer momento. Era algo que me llamaba mucho la atención.&lt;/p&gt;
 
@@ -235,8 +235,8 @@
 &lt;p&gt;La decisión de utilizar Ruby fue personal. Ruby es uno de mis lenguajes favoritos, consigo resultados rápidos y me divierto mucho programando en él.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2015 00:47:12 +0000</pubDate>
-        <link>http://www.migueldhdez.me/ensamblador-en-ruby</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/ensamblador-en-ruby</guid>
+        <link>https://madh93.github.io/ensamblador-en-ruby</link>
+        <guid isPermaLink="true">https://madh93.github.io/ensamblador-en-ruby</guid>
         
         
         <category>proyectos</category>
@@ -247,13 +247,13 @@
     
       <item>
         <title>proyectos: Realización de una CPU simple</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de una CPU monociclo de 16-bit realizada en Verilog, un ejemplo perfecto para entender desde lo más básico cual es el verdadero funcionamiento de un microprocesador.&lt;/p&gt;
 
 &lt;p&gt;Tradicionalmente una CPU ejecuta una instrucción tras otra. Estas instrucciones son almacenadas en una memoria de instrucciones. La unidad de control de la CPU es la responsable de extraer cada instrucción, decodificarla, y ejecutarla de manera secuencial mediante un contador de programa. Además de la memoria de instrucciones y un contador de programa, se suele disponer de un conjunto de registros donde almacenar los datos y una ALU (unidad aritmético-lógica) encargada de las operaciones más elementales.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;La CPU cuenta con una memoria de instrucciones con capacidad de 1024 instrucciones, un banco de 16 registros de 8 bits, una ALU con operaciones como asignación, suma, resta, and, or, diferencia, etc. y cuatro puertos de entrada/salida.&lt;/p&gt;
 
@@ -274,7 +274,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
   &lt;img src=&quot;/assets/img/projects/content/realizacion-de-una-cpu-simple02.jpg&quot; alt=&quot;FPGA Altera DE1&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;A día de hoy, este proyecto lo sigo considerando uno de los mayores retos. Ya no solo por el hecho de realizar mi propia CPU, que se dice pronto, sino por tener que trabajar de una manera totalmente diferente a la que estaba acostumbrado.&lt;/p&gt;
 
@@ -283,8 +283,8 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 &lt;p&gt;Por supuesto, la recompensa de haberlo finalizado supera todo el esfuerzo realizado.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Oct 2015 23:54:45 +0000</pubDate>
-        <link>http://www.migueldhdez.me/realizacion-de-una-cpu-simple</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/realizacion-de-una-cpu-simple</guid>
+        <link>https://madh93.github.io/realizacion-de-una-cpu-simple</link>
+        <guid isPermaLink="true">https://madh93.github.io/realizacion-de-una-cpu-simple</guid>
         
         
         <category>proyectos</category>
@@ -295,7 +295,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
     
       <item>
         <title>proyectos: Implementación de FTP</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de una implementación del protocolo &lt;a href=&quot;https://es.wikipedia.org/wiki/File_Transfer_Protocol&quot;&gt;FTP&lt;/a&gt; escrito en C++ pero utilizando las librerías estándar de C, que sirve de ejemplo de una aplicación cliente-servidor utilizando el concepto de sockets.&lt;/p&gt;
 
@@ -303,7 +303,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 
 &lt;p&gt;El protocolo FTP es un protocolo de red que trabaja sobre la capa de aplicación, el cual permite la transferencia de ficheros entre un servidor y un cliente.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;Para tener un protocolo FTP, lo básico es disponer de la posibilidad de descargar archivos desde el servidor, como subirlos a él. Estas acciones se pueden realizar tanto mediante modo “activo” como “pasivo”.&lt;/p&gt;
 
@@ -322,15 +322,15 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. En el mismo repositorio están las instrucciones para compilar los archivos. Cabe mencionar, que para comprobar el funcionamiento lo correcto sería lanzar los clientes desde diferentes directorios al servidor.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Este proyecto, fue el proyecto final de una asignatura de Redes. El objetivo era entender el concepto de los sockets, los cuales son indispensables en las comunicaciones.&lt;/p&gt;
 
 &lt;p&gt;No fue un tema fácil de entender, sin embargo la realización de un protocolo FTP como ejemplo fue indispensable para entender la el funcionamiento de los sockets, y ya de paso profundizar en el funcionamiento de FTP (existiendo los conocidos modo activo y modo pasivo).&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Oct 2015 02:33:41 +0100</pubDate>
-        <link>http://www.migueldhdez.me/implementacion-de-ftp</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/implementacion-de-ftp</guid>
+        <link>https://madh93.github.io/implementacion-de-ftp</link>
+        <guid isPermaLink="true">https://madh93.github.io/implementacion-de-ftp</guid>
         
         
         <category>proyectos</category>
@@ -343,11 +343,11 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
     
       <item>
         <title>proyectos: Visor de imágenes en Qt</title>
-        <description>&lt;h4 id=&quot;qu-es&quot;&gt;¿Qué es?&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;qué-es&quot;&gt;¿Qué es?&lt;/h4&gt;
 
 &lt;p&gt;Se trata de un visor de imágenes escrito en C++ mediante el framework &lt;a href=&quot;http://www.qt.io/&quot;&gt;Qt&lt;/a&gt; que permite abrir y visualizar imágenes de diferentes formatos.&lt;/p&gt;
 
-&lt;h4 id=&quot;caractersticas&quot;&gt;Características&lt;/h4&gt;
+&lt;h4 id=&quot;características&quot;&gt;Características&lt;/h4&gt;
 
 &lt;p&gt;Las imágenes se pueden ampliar, reducir y rotar.&lt;/p&gt;
 
@@ -368,13 +368,13 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 
 &lt;p&gt;Desde Github se puede descargar el código fuente. Para poder compilarlo y posteriormente ejecutarlo es necesario tener &lt;a href=&quot;http://www.qt.io/download/&quot;&gt;Qt 5 o superior&lt;/a&gt;. Ha sido testeado en las versiones 5.4 y 5.5.&lt;/p&gt;
 
-&lt;h4 id=&quot;opinin-personal&quot;&gt;Opinión personal&lt;/h4&gt;
+&lt;h4 id=&quot;opinión-personal&quot;&gt;Opinión personal&lt;/h4&gt;
 
 &lt;p&gt;Este fue uno de mis primeros proyectos con Qt, y pienso que es una muy buena forma de empezar con este potente framework, ya que contiene algunos elementos básicos como la utilización de menús y botones, además de trabajar con gráficos e imágenes.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Sep 2015 20:54:42 +0100</pubDate>
-        <link>http://www.migueldhdez.me/visor-de-imagenes-en-qt</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/visor-de-imagenes-en-qt</guid>
+        <link>https://madh93.github.io/visor-de-imagenes-en-qt</link>
+        <guid isPermaLink="true">https://madh93.github.io/visor-de-imagenes-en-qt</guid>
         
         
         <category>proyectos</category>
@@ -391,7 +391,7 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 
 &lt;p&gt;Desde hace años, leo a diario muchos blogs y jamás se me pasó por la cabeza la idea de realizar uno propio. Siempre lo he tenido claro: soy buen lector, no redactor. Y sin embargo estoy escribiendo la primera entrada de un blog, curioso. &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;por-qu-escribir-un-blog&quot;&gt;¿Por qué escribir un blog?&lt;/h4&gt;
+&lt;h4 id=&quot;por-qué-escribir-un-blog&quot;&gt;¿Por qué escribir un blog?&lt;/h4&gt;
 
 &lt;p&gt;Muchas personas tenemos siempre ideas en la cabeza de qué hacer cuando llegue verano, a veces esas ideas incluso llegan a nublar por completo nuestras actividades diarias, al menos en mi caso. Hace meses empecé a tener claro una cosa: tenía que darme a conocer. Aunque darse a conocer no tiene el mismo significado que ser famoso para mí, simplemente tener un pequeño hueco en internet donde poder ser localizado.&lt;/p&gt;
 
@@ -406,8 +406,8 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 &lt;p&gt;Por otra parte, en menos de un mes empezaré mi último curso y aún ni siquiera se que aprenderé exactamente, pero subiré todos aquellos proyectos interesantes que ojalá no sean pocos. De momento un anticipo: &lt;a href=&quot;https://github.com/Madh93&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Aug 2015 23:53:24 +0100</pubDate>
-        <link>http://www.migueldhdez.me/hola-mundo</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/hola-mundo</guid>
+        <link>https://madh93.github.io/hola-mundo</link>
+        <guid isPermaLink="true">https://madh93.github.io/hola-mundo</guid>
         
         
         <category>blog</category>
@@ -423,8 +423,8 @@ Se han especificado una quincena de instrucciones: operaciones de ALU, operacion
 &lt;p&gt;El diseño original se titula “Solid” hecho por &lt;a href=&quot;http://blacktie.co/&quot;&gt;BlackTie.co&lt;/a&gt; y &lt;a href=&quot;https://github.com/st4ple/solid-jekyll&quot;&gt;adaptado a Jekyll&lt;/a&gt; por Oliver Stapleton. Quería realizar un sitio sin tener que preocuparme de la elaboración del diseño. Y eso es lo que hecho, la idea original del diseño la he dejado intacta, mientras que en el resto de apartados como la mayor parte de la funcionalidad lo he modificado a lo que he creído acorde con mis necesidades.&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Aug 2015 23:31:56 +0100</pubDate>
-        <link>http://www.migueldhdez.me/preguntas/</link>
-        <guid isPermaLink="true">http://www.migueldhdez.me/preguntas/</guid>
+        <link>https://madh93.github.io/preguntas/</link>
+        <guid isPermaLink="true">https://madh93.github.io/preguntas/</guid>
         
         
         <category>preguntas</category>
