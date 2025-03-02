@@ -1,0 +1,41 @@
+version: "3"
+
+tasks:
+  default:
+    desc: "Install requirements and serve the site"
+    cmds:
+      - task update-dependencies
+      - task install-dependencies
+      - task run
+
+  clean:
+    desc: "Clean build artifacts"
+    aliases: [c]
+    cmds:
+      - go clean
+      - rm -rf public node_modules .hugo_build.lock
+
+  update-dependencies:
+    desc: "Update dependencies"
+    aliases: [u, update]
+    cmds:
+      - go get -u all && go mod tidy
+
+  install-dependencies:
+    desc: "Install dependencies"
+    aliases: [i, deps]
+    cmds:
+      - npm install
+
+  run:
+    desc: "Serve the site"
+    aliases: [r, s, serve, server]
+    cmds:
+      - hugo server
+
+  build:
+    desc: "Build the site"
+    aliases: [b]
+    deps: [install-dependencies]
+    cmds:
+      - hugo build
