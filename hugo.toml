@@ -54,13 +54,13 @@ enableRobotsTXT = true
   # Homepage setup
   [params.home]
     # Display recent blog posts on the homepage.
-    showRecentPosts = true
+    showRecentPosts = false
     # Set how many recent blog posts to show.
-    recentPostsLimit = 3
+    # recentPostsLimit = 3
     # Display recent notes on the homepage.
-    showRecentNotes = true
+    showRecentNotes = false
     # Set how many recent notes to show.
-    recentNotesLimit = 10
+    # recentNotesLimit = 10
 
   # Notes page setup
   [params.notes]

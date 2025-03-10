@@ -14,5 +14,4 @@ Connect with me on:
 
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/migueldhdez)
 - 🧑‍💻 [GitHub](https://github.com/Madh93)
-- 📫 [Email](mailto:me@mhdez.com)
-- 🔑 [GPG Key](/pubkey.asc) (`87638F555971C9470EE0970292798C20EED0C422`)  
+- 📫 [Email](mailto:me@mhdez.com) | 🔑 [GPG Key](/pubkey.asc) (Verify with my {{< sidenote "fingerprint"  >}}87638F555971C9470EE0970292798C20EED0C422{{< /sidenote >}})
