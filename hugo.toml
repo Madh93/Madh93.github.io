@@ -19,14 +19,14 @@ enableRobotsTXT = true
     name = 'Notes'
     pageRef = '/notes'
     weight = 20
-  # [[menus.main]]  # Not yet
-  #   name = 'Posts'
-  #   pageRef = '/posts'
-  #   weight = 30
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 30
   [[menus.main]]
     name = 'Graph'
     pageRef = '/graph'
-    weight = 30
+    weight = 40
 
 [markup]
   [markup.highlight]
