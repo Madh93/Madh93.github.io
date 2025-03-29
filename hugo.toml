@@ -65,7 +65,7 @@ enableRobotsTXT = true
   # Notes page setup
   [params.notes]
     # Set the number of notes to list on each page.
-    pageSize = 20
+    pageSize = 10
     # Show a filter option for note categories above the notes list.
     showCategoryFilter = true
 
