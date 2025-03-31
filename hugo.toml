@@ -27,10 +27,6 @@ enableRobotsTXT = true
     name = 'Posts'
     pageRef = '/posts'
     weight = 30
-  [[menus.main]]
-    name = 'Graph'
-    pageRef = '/graph'
-    weight = 40
 
 [markup]
   [markup.highlight]

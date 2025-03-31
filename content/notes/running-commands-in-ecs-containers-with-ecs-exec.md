@@ -1,6 +1,7 @@
 ---
 title: Running commands in ECS Containers with ECS Exec
 date: 2025-03-29
+summary: Amazon ECS Exec lets you securely interact with your running ECS containers (get a shell or run single commands) using SSM Session Manager.
 categories: [AWS, ECS, SSM, SSH]
 ---
 

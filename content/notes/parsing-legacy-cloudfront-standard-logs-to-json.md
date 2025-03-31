@@ -1,6 +1,7 @@
 ---
 title: Parsing Legacy CloudFront Standard Logs to JSON
 date: 2025-03-07
+summary: Legacy CloudFront Standard Logs (a.k.a access logs) are based on W3C Extended Log File format. These logs can be parsed into JSON format using a Python script.
 categories: [AWS, CloudFront, Logs, JSON, Python]
 ---
 

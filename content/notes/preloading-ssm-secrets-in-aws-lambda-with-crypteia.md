@@ -1,6 +1,7 @@
 ---
 title: Preloading SSM Secrets in AWS Lambda with Crypteia
 date: 2025-03-23
+summary: Crypteia is an AWS Lambda extension for any runtime to preload SSM Parameters as secure environment variables at function startup.
 categories: [AWS, SSM, Lambda, Crypteia]
 ---
 

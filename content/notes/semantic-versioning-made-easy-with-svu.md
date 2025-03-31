@@ -1,6 +1,7 @@
 ---
 title: Semantic Versioning Made Easy with svu
 date: 2025-03-05
+summary: svu is a lightweight CLI tool that generates semantic versions based on your Git log and follows Conventional Commits. It is the perfect companion for GoReleaser.
 categories: [Versioning, Release, CI/CD, Go, Git]
 ---
 

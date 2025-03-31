@@ -1,6 +1,7 @@
 ---
 title: Rewriting Rust with Even More Rust
 date: 2025-03-04
+summary: Rust's compiler is written in Rust, thanks to a process called bootstrapping.
 categories: [Rust, Compilers, Programming Languages]
 ---
 

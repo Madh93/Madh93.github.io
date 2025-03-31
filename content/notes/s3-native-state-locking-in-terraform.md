@@ -1,6 +1,7 @@
 ---
 title: S3 Native State Locking in Terraform
 date: 2025-03-01
+summary: Terraform 1.11 introduces S3-native state locking, eliminating the need for DynamoDB-based locks.
 categories: [Terraform, AWS, S3, Infrastructure-as-Code]
 ---
 

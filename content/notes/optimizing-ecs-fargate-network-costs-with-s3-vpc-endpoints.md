@@ -1,6 +1,7 @@
 ---
 title: Optimizing ECS Fargate Network Costs with S3 VPC Endpoints
 date: 2025-02-27
+summary: Use S3 Gateway VPC Endpoints to reduce network costs when pulling private ECR images in ECS Fargate tasks deployed in private subnets.
 categories: [AWS, ECS, Fargate, VPC, Cost Optimization]
 ---
 

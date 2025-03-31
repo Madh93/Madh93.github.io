@@ -1,6 +1,7 @@
 ---
 title: Understanding GitHub API Rate Limits
 date: 2025-03-06
+summary: GitHub API limits unauthenticated requests to 60 per hour per IP. By using a personal access token, you can increase this limit to 5,000 requests per hour.
 categories: [GitHub, API, Rate Limits]
 ---
 

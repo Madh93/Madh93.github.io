@@ -1,6 +1,7 @@
 ---
 title: Generating Least Privilege IAM Policies using iamlive
 date: 2025-03-14
+summary: iamlive can automatically generate least privilege IAM policies based on the permissions used during Terraform execution.
 categories: [AWS, IAM, Terraform]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Direct JSON Field Access with CloudWatch Logs Insights
 date: 2025-02-17
+summary: CloudWatch Logs Insights can automatically parse JSON in the `@message` field.
 categories: [AWS, CloudWatch, Logs]
 ---
 

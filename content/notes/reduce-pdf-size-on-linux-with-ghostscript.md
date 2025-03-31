@@ -1,6 +1,7 @@
 ---
 title: Reduce PDF Size on Linux with Ghostscript
 date: 2025-02-23
+summary: With gs you can reduce the PDF size on Linux.
 categories: [Linux, PDF, Ghostscript, Compression, Command Line]
 ---
 
