@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainers-extra/features/dasel-asdf:2": {
+      "version": "2.0.16",
+      "resolved": "ghcr.io/devcontainers-extra/features/dasel-asdf@sha256:f3144fb285ae82bb38896f451a38e4a3b5fb7a21d4eebfaac527c83583bbd1d9",
+      "integrity": "sha256:f3144fb285ae82bb38896f451a38e4a3b5fb7a21d4eebfaac527c83583bbd1d9"
+    }
+  }
+}
